@@ -2,6 +2,9 @@
     "recommendations": [
         "vscodevim.vim",
         "vscjava.vscode-java-pack",
-        "editorconfig.editorconfig"
+        "editorconfig.editorconfig",
+        "dsznajder.es7-react-js-snippets",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint"
     ]
 }
